@@ -16,7 +16,8 @@ Los metodos y propiedades de una clase pueden son heredados a las clases hijo si
 
 ```cpp
 Class Profesor:public Empleado{
-  // aqui el codigo hereda las propiedades de empleado y puede hacer uso de ellas si se encuentran publicas (public).
+  // aqui el codigo hereda las propiedades de 
+  // empleado y puede hacer uso de ellas si se encuentran publicas (public).
 }
 
 ```
