@@ -117,10 +117,10 @@ public:
 
 int main()
 {
-    Employee employee1 = Employee("Omar", "VUBA auditorias", 31);
+    Employee employee1 = Employee("Omar", "Auditoria", 31);
     Employee employee2 = Employee("Ivan", "SEARS", 24);
     Developer D1 = Developer("Omar", "Google", 29, "C++");
-    Teacher T = Teacher("Panchito", "YMCA", 28, "Relleno");
+    Teacher T = Teacher("Panchito", "YMCA", 28, "Programacion I");
 
     Employee *e = &D1;
     Employee *e2 = &T;
